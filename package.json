@@ -5,5 +5,5 @@
   "description": "RPS BOT",
   "main": "bot.js",
   "author": "Jack_P",
-  "dependencies": {} 
+  "dependencies": {"discord.js"} 
 }
