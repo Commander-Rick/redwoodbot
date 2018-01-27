@@ -1,9 +1,11 @@
 {
-
-  "name": "RPS",
+  "name": "RPS Bot",
   "version": "1.0.0",
-  "description": "RPS BOT",
+  "description": "Discord Bot For Redwood Programming Society",
   "main": "bot.js",
   "author": "Jack_P",
-  "dependencies": {""} 
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "winston": "^2.4.0"
+  }
 }
