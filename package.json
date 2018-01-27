@@ -2,6 +2,7 @@
   "name": "RPS DISCORD BOT",
   "version": "1.0.0",
   "description": "RPS DISCORD BOT",
+  "main": bot.js
   "author": "Jack P",
   "dependencies": {}
 }
