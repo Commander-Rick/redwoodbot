@@ -1,3 +1,4 @@
+require('node.js')
 const Discord =  require('discord.js');
 const client = new Discord.client();
 const token 'NDA2NjQxNjc5NTcyMTQwMDMy.DU16Jg.yPLo4-lowW6AxB3HNDDaeqfKJto';
@@ -24,5 +25,6 @@ if (message.content === '!role Dave Cult ') {
 }
 
 client.login(token);
+
 
 
