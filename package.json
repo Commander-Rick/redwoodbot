@@ -1,12 +1,9 @@
 {
 
-  "name": "E-Camp-Bot",
+  "name": "RPS",
   "version": "1.0.0",
-  "description": "E-Camp-Bot",
+  "description": "RPS BOT",
   "main": "bot.js",
   "author": "Jack_P",
-  "dependencies": {
-    "discord.js"
-  }
-
+  "dependencies": {} 
 }
